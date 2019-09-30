@@ -2,7 +2,17 @@ body {
 	background-color: #242582;
 }
 
-h1, p {
+h1 {
 	color: white;
-	font-family: Arial;
+	font-family: Cooper Hewit Heavy;
+	font-size: 50px
+	padding-left: 30px;
+	padding-right: 100px;
 } 
+
+p {
+	color: white;
+	font-family: Cooper Hewit;
+	padding-left: 30px;
+	padding-right: 100px;
+}
