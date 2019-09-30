@@ -1,13 +1,7 @@
 body {
-	background-color: #999;
+	background-color: blue;
 }
 
-header h1 {
+h1,p {
 	color: white;
-	font-family: Verdana;
-	font-size: 100px;
-}
-
-p {
-	color: white;
-}
+} 
