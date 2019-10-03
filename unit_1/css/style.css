@@ -4,7 +4,7 @@ body {
 
 h1 {
 	color: white;
-	font-family: Cooper Hewit Heavy;
+	font-family: Arial;
 	font-size: 50px
 	padding-left: 30px;
 	padding-right: 100px;
@@ -12,7 +12,7 @@ h1 {
 
 p {
 	color: white;
-	font-family: Cooper Hewit;
+	font-family: Arial;
 	padding-left: 30px;
 	padding-right: 100px;
 }
