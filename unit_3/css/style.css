@@ -6,24 +6,26 @@ body {
 }
 
 h1 {
-	font-family: "Roboto", serif;
-	font-size: 20px;
+	font-family: "Arial", serif;
+	font-size: 30px;
 	padding-left: : 20px;	
 }
 
 #slogan {
-	font-family: "Oleo Script", serif;
+	font-family: "Arial", serif;
+	font-style: italic;
+	font-size: 20px;
 }
+
 }
 p {
-	font-family: Roboto, serif;
+	font-family: Arial, serif;
 	font-size: 15px;
 	padding-left: 20px;
-
 }
 
 ul {
-	font-family: Roboto, serif;
+	font-family: Arial, serif;
 	font-size: 15px;
 
 }
