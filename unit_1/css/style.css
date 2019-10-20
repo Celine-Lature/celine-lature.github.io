@@ -4,15 +4,15 @@ body {
 
 h1 {
 	color: white;
-	font-family: Arial;
-	font-size: 50px
-	padding-left: 30px;
-	padding-right: 100px;
+	font-family: serif;
+	font-size: 50px;
+	padding-left: 30%;
+	padding-right: 30%;
 } 
 
 p {
 	color: white;
 	font-family: Arial;
-	padding-left: 30px;
-	padding-right: 100px;
+	padding-left: 30%;
+	padding-right: 30%;
 }

@@ -1,0 +1,41 @@
+body {
+	padding:0;
+	margin:0;
+  	background: url("images/background website.jpg");
+  	background-size: cover;
+}
+
+h1 {
+	font-family: "Roboto", serif;
+	font-size: 20px;	
+}
+
+#slogan {
+	font-family: "Oleo Script", serif;
+}
+}
+p {
+	font-family: Roboto, serif;
+	font-size: 15px;
+
+}
+
+ul {
+	font-family: Roboto, serif;
+	font-size: 15px;
+
+}
+
+.btn{
+	border:1px solid #ffffff;
+	background: none;
+	padding:10px 20px;
+	font-size: 10px;
+	font-family: "Roboto Condensed", serif;
+	cursor: pointer;
+	margin: 10px;
+}
+
+
+
+
