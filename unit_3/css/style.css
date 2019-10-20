@@ -3,13 +3,12 @@
 	margin: 0;
 }
 
-
 body {
   	background-size: cover;
-  	background-image: url("images/background website.jpg");
+  	background-image: url ("images/background website.jpg");
 }
 
-h1 {
+h1 {	
 	font-family: "Arial", serif;
 	font-size: 30px;
 }
@@ -48,6 +47,7 @@ ul {
 h1, h2, p, #slogan {
 	padding: 10px;
 	padding-bottom: 10px;
+	padding-right: 500px;
 }
 
 ul {
