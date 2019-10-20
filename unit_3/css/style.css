@@ -1,6 +1,12 @@
+* {
+	padding:0;
+	margin: 0;
+}
+
+
 body {
-	padding:50px;
-	margin-top: 50px;
+	padding:30px;
+	margin-top: 30px;
   	background: url("/../images/background website.jpg");
   	background-size: cover;
 }
@@ -8,19 +14,16 @@ body {
 h1 {
 	font-family: "Arial", serif;
 	font-size: 30px;
-	padding-left: 20px;	
 }
 
 #slogan {
 	font-family: "Arial", serif;
 	font-style: italic;
-	font-size: 20px;
 }
 
 p {
 	font-family: Arial, serif;
 	font-size: 15px;
-	padding-left: 20px;
 }
 
 ul {
