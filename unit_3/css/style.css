@@ -4,19 +4,28 @@
 }
 
 body {
-	background-image: url ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfjMNZo3QpdHo8chvKQjsC6WPKK9Q_vukpIye0xqb8-lLAVf3");
+	background-image: url("http://www.securebusinesssolution.com/wp-content/uploads/2018/01/marketing-header.jpg");
   	background-size: cover;
+  	background-position: center;
+  	background-repeat: no-repeat;
 }
 
+main {
+	padding-left: 50px;
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
 
 h1 {	
 	font-family: "Arial", serif;
-	font-size: 30px;
+	font-size: 40px;
+	color: #7231C2;
 }
 
 h2 {
 	font-family: "Arial", serif;
-	font-size: 20px;
+	font-size: 17px;
+	color: #000;
 }
 
 #slogan {
@@ -27,12 +36,15 @@ h2 {
 
 p {
 	font-family: Arial, serif;
-	font-size: 15px;
+	font-size: 17px;
 }
 
 ul {
 	font-family: Arial, serif;
-	font-size: 15px;
+	font-size: 17px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 30px;
 }
 
 .btn {
@@ -45,27 +57,20 @@ ul {
 	margin: 10px;
 }
 
-h1, h2, p, #slogan {
+h1, h2, p, #slogan, section {
 	padding: 10px;
 	padding-bottom: 10px;
-	padding-right: 500px;
-}
-
-ul {
-	padding-left: 20px;
-	padding-top: 20px;
-	padding-bottom: 30px;
-
+	padding-right: 700px;
 }
 
 a {
-	border: solid 2px #31C2B6;
+	background-color: #31C2B6;
 	border-radius: 30px;
+	text-decoration: none;
+	color: #ffffff;
 	padding: 10px 30px;
 	font-size: 15px;
 	font-family: "Arial";
-
-
 
 }
 
