@@ -8,7 +8,7 @@ body {
 h1 {
 	font-family: "Arial", serif;
 	font-size: 30px;
-	padding-left: : 20px;	
+	padding-left: 20px;	
 }
 
 #slogan {
@@ -17,7 +17,6 @@ h1 {
 	font-size: 20px;
 }
 
-}
 p {
 	font-family: Arial, serif;
 	font-size: 15px;
@@ -27,7 +26,6 @@ p {
 ul {
 	font-family: Arial, serif;
 	font-size: 15px;
-
 }
 
 .btn{
@@ -35,7 +33,7 @@ ul {
 	background: none;
 	padding:10px;
 	font-size: 10px;
-	font-family: "Roboto Condensed", serif;
+	font-family: "Arial", serif;
 	cursor: pointer;
 	margin: 10px;
 }
