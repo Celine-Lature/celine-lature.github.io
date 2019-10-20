@@ -7,7 +7,8 @@ body {
 
 h1 {
 	font-family: "Roboto", serif;
-	font-size: 20px;	
+	font-size: 20px;
+	padding-left: : 20px;	
 }
 
 #slogan {
@@ -17,6 +18,7 @@ h1 {
 p {
 	font-family: Roboto, serif;
 	font-size: 15px;
+	padding-left: 20px;
 
 }
 
@@ -29,7 +31,7 @@ ul {
 .btn{
 	border:1px solid #ffffff;
 	background: none;
-	padding:10px 20px;
+	padding:10px;
 	font-size: 10px;
 	font-family: "Roboto Condensed", serif;
 	cursor: pointer;
