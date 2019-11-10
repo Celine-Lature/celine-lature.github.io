@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Crimson+Text&display=swap');
+
+* {
+	padding:0;
+	margin: 0;
+}
+
+header {
+	background: url("../images/background3.jpg");
+  	background-size: cover;
+   	background-repeat: no-repeat;
+   	padding:200px 150px 200px 100px;
+	
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav a{
+	background-color: #daa03b;
+	border-radius: 30px;
+	text-decoration: none;
+	color: #ffffff;
+	margin-top: em;
+	padding: 10px 30px;
+	font-size: 15px;
+	font-family: "Arial";
+}
+
+footer {
+	background-color: #194980;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+    background-color: #fff;
+    border: none;
+    padding: 20px;
+}
+
+#left {
+    background-color: #fff;
+    border: none;
+    text-align: center;
+    padding: 20px;
+    float: left;
+    width: 46%;
+}
+
+#right {
+    background-color: #fff;
+    border: none;
+    text-align: center;
+    padding: 20px;
+   	float: right;   
+    width: 46%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+h1 {	
+	font-family: 'Anton', sans-serif;
+	font-size: 70px;
+	color: #daa03b;
+}
+
+h2 {
+	font-family: 'Anton', sans-serif;
+	font-weight: normal;
+	font-size: 17px;
+	color: #fff;
+}
+
+
+h3 {
+	font-family: 'Anton', sans-serif;
+	font-weight: bold;
+	font-size: 17px;
+	color: #daa03b;
+}
+
+p {
+	font-family: 'Crimson Text', serif;
+	font-size: 17px;
+	color: #181818;
+}
+
+hr {
+	display: block;
+  	margin-top: 0.5em;
+ 	margin-bottom: 3em;
+  	border-width: 1px;
+  	border-style: dotted;
+  	color: grey;
+}
+
+
+
+
+
+
+
+
+
