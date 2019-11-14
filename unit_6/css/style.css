@@ -24,10 +24,11 @@ nav a{
 	border-radius: 30px;
 	text-decoration: none;
 	color: #ffffff;
-	margin-top: em;
+	margin: 1em 1em 0 0;
 	padding: 10px 30px;
 	font-size: 15px;
 	font-family: "Arial";
+	display: inline-block;
 }
 
 footer {
@@ -104,6 +105,8 @@ hr {
   	border-style: dotted;
   	color: grey;
 }
+
+
 
 
 
