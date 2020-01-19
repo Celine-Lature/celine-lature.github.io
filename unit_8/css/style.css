@@ -114,6 +114,13 @@ hr {
 }
 
 @media only screen and (max-width: 1038px) {
+	
+	article {
+		flot:none;
+		width: auto;
+	}
+
+
 	#left {
 		float: none;
 		width: auto;
