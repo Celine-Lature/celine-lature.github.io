@@ -7,20 +7,21 @@
 
 #container {
 	width: 90%;
+	font-size: 16px;
 }
 
 header {
 	background: url("../images/background3.jpg");
   	background-size: cover;
    	background-repeat: no-repeat;
-   	padding:200px 150px 200px 100px;
+   	padding:150px 100px 150px 100px;
 	
 }
 
 article {
 	background-color: #E89C6C;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 10px;
 }
 
 nav a{
@@ -76,14 +77,14 @@ footer {
 
 h1 {	
 	font-family: 'Anton', sans-serif;
-	font-size: 70px;
+	font-size: 4.375em;
 	color: #daa03b;
 }
 
 h2 {
 	font-family: 'Anton', sans-serif;
 	font-weight: normal;
-	font-size: 17px;
+	font-size: 1.2em;
 	color: #fff;
 }
 
@@ -91,14 +92,16 @@ h2 {
 h3 {
 	font-family: 'Anton', sans-serif;
 	font-weight: bold;
-	font-size: 17px;
+	font-size: 1.2em;
 	color: #daa03b;
 }
 
 p {
 	font-family: 'Crimson Text', serif;
-	font-size: 17px;
+	font-size: 1.2em;
 	color: #181818;
+	width: 70%
+	text-align: center;
 }
 
 hr {
